@@ -1,3 +1,4 @@
-name = "v20250626"
+# wrangler.toml
+name = 'cmgitku'
 main = "_worker.js"
 compatibility_date = "2025-06-26"
