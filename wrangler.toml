@@ -1,4 +1,4 @@
 # wrangler.toml
-name = 'cmgitku'
+name = 'effe'
 main = "_worker.js"
 compatibility_date = "2025-06-26"
